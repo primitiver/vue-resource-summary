@@ -1,14 +1,15 @@
 <h1 align="center">vue开发资源汇总</h1>
 
-本文收集了vue开发过程中会使用到的资料、问题以及第三方组件库。本文不是一篇关于如何学习微信小程序的入门指南，也非参考手册，只是一些资料的整理。
+本文收集了vue开发过程中会使用到的资料、问题以及第三方组件库。
 
-如果这个仓库对你有帮助，欢迎 star。
+持续更新中... 如果这个仓库对你有帮助，欢迎 star。
 
 
 ## 目录
 
 - [官方文档](#官方文档)
 - [工具](#工具)
+- [js类库及工具函数](#js类库及工具函数)
 - [PC端UI组件库](#PC端UI组件库)
 - [开箱即用中后台管理系统框架](#开箱即用中后台管理系统框架)
 - [PC端组件](#PC端组件)
@@ -40,6 +41,9 @@
 - [picx ★1.1k+](https://github.com/XPoet/picx.git) - 基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具。
 - [kuboard-press ★13.6k+](https://github.com/eip-work/kuboard-press.git) - 基于 Kubernetes 的微服务管理界面。
 - [showdoc ★10.3k+](https://github.com/star7th/showdoc.git) - 一个非常适合IT团队的在线API文档、技术文档工具
+- [micro-app ★2.3k+](https://github.com/micro-zoe/micro-app.git) - micro-app是京东零售推出的一款微前端框架
+- [qiankun ★12.1k+](https://github.com/umijs/qiankun.git) - 最完善的微前端解决方案
+- [dev-sidecar ★7.5k+](https://github.com/docmirror/dev-sidecar.git) - github加速、请求拦截、dns优选、npm加速
 
 [↑ 返回目录 ↑](#目录)
 
@@ -71,9 +75,10 @@
 - [Administrative-divisions-of-China ★12.3k+](https://github.com/modood/Administrative-divisions-of-China.git) - 中华人民共和国行政区划（五级）：省级、地级、县级、乡级和村级。
 - [store.js](https://github.com/travist/jsencrypt.git) - localStorage 存储
 - [storage.js ★456](https://github.com/ustbhuangyi/storage.git) - localStorage、sessionStorage 存储
-- [pinyin ★6.2](https://github.com/hotoo/pinyin.git) - 转换中文字符为拼音。可以用于汉字注音、排序、检索。
+- [pinyin ★6.2k+](https://github.com/hotoo/pinyin.git) - 转换中文字符为拼音。可以用于汉字注音、排序、检索。
+- [rollup.js ★21.3k+](https://www.rollupjs.com/) - Rollup 是一个 JavaScript 模块打包器，可以将小块代码编译成大块复杂的代码，例如 library 或应用程序。
 
-
+[↑ 返回目录 ↑](#目录)
 
 ## PC端UI组件库
 
@@ -81,7 +86,7 @@
 - [element plus ★14.5K+](https://element-plus.gitee.io/zh-CN/) - 基于 Vue 3，面向设计师和开发者的组件库
 - [ant design vue ★14.5K+](https://antdv.com/docs/vue/introduce-cn/) - Ant Design 的 Vue 实现，开发和服务于企业级后台产品
 
-
+[↑ 返回目录 ↑](#目录)
 
 ## 开箱即用中后台管理系统框架
 
@@ -120,7 +125,10 @@
 - [vue-cropper ★3.3k+](https://github.com/xyxiao001/vue-cropper.git) - 一个优雅的图片裁剪插件
 - [vue-photo-preview ★442](https://github.com/826327700/vue-photo-preview.git) - 基于photoswipe的vue图片预览插件
 - [vue-ls ★518](https://github.com/RobinCK/vue-ls.git) - 用于操作 Local Storage(本地存储)、Session Storage(会话存储)、Memory(内存存储)。
-- [vue-echarts ★6.8](https://github.com/ecomfe/vue-echarts.git) - vue版echart图表
+- [vue-echarts ★6.8k+](https://github.com/ecomfe/vue-echarts.git) - vue版echart图表
+- [OrgChart ★2.4k+](https://github.com/dabeng/OrgChart.git) - 多层级的组织结构图
+
+[↑ 返回目录 ↑](#目录)
 
 ## 移动端UI组件库
 
@@ -128,3 +136,5 @@
 - [nutui ★4.1K+](https://nutui.jd.com/) - NutUI 是京东风格的移动端组件库
 - [uview ★3.4K+](https://www.uviewui.com/) - uView UI 是全面兼容nvue的uni-app生态框架
 - [mescroll ★3.9K+](https://github.com/mescroll/mescroll.git) - 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器
+
+[↑ 返回目录 ↑](#目录)
